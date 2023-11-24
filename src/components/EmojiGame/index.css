@@ -1,0 +1,29 @@
+/* Write your code here. */
+.app-container {
+  min-height: 100vh;
+  background-image: linear-gradient(to bottom, #9796f0, #fbc7d4);
+  background-color: #9796f0;
+}
+.emoji-game-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.emoji-list-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.win-lose-bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.emoji-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

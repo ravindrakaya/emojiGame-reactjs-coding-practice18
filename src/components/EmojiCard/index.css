@@ -1,0 +1,21 @@
+/* Write your code here. */
+.list-item-container {
+  height: 150px;
+  width: 150px;
+  border: 1px solid #ffffff30;
+  border-radius: 10px;
+  margin: 10px;
+  background-color: #ffffff30;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.emoji-img {
+  height: 80px;
+  width: 80px;
+}
+.button {
+  outline: none;
+  border: none;
+  background-color: transparent;
+}
